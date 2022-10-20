@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day37EmployeeRestShrap", "Day37EmployeeRestShrap.csproj", "{BC2172BA-227E-4681-B100-A7C492629F68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpTestCase", "..\RestSharpTestCase\RestSharpTestCase.csproj", "{EDA5CE43-37DA-4721-BD97-03D6E08AEDAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC2172BA-227E-4681-B100-A7C492629F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2172BA-227E-4681-B100-A7C492629F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2172BA-227E-4681-B100-A7C492629F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2172BA-227E-4681-B100-A7C492629F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA5CE43-37DA-4721-BD97-03D6E08AEDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA5CE43-37DA-4721-BD97-03D6E08AEDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA5CE43-37DA-4721-BD97-03D6E08AEDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA5CE43-37DA-4721-BD97-03D6E08AEDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC6CFC2C-A2DA-4835-A9D8-64A1481862F0}
+	EndGlobalSection
+EndGlobal
